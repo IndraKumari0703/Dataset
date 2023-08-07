@@ -1,2 +1,3 @@
 ChartQA[[:space:]]Dataset.zip filter=lfs diff=lfs merge=lfs -text
 Chart.h5 filter=lfs diff=lfs merge=lfs -text
+ICPR2022_CHARTINFO_UB_PMC_TRAIN_v1.0.zip filter=lfs diff=lfs merge=lfs -text
