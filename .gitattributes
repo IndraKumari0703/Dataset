@@ -1,1 +1,2 @@
 ChartQA[[:space:]]Dataset.zip filter=lfs diff=lfs merge=lfs -text
+Chart.h5 filter=lfs diff=lfs merge=lfs -text
